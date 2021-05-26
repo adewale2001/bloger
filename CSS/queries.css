@@ -1,0 +1,54 @@
+@media only screen and (max-width: 991px){
+    
+    .left{
+        margin-left: 0px;
+        display: flex;
+        flex-direction: column;
+     }
+     .one{
+         height: 700px;
+     }
+     .sign{
+         margin-left: 140px;
+         margin-top: 10px;
+     }
+     .sign{
+        margin-left: 140px;
+        margin-top: 10px;
+    }
+    h4{
+        text-align: center;
+    }
+    .nice{
+        text-align: center;
+    }
+    .editor{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .editors{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .four{
+        height: 100%;
+        border-top-right-radius: 115px;
+        margin-top: 40px;
+    }
+    .dropdown{
+        text-align: center;
+    }
+    .dropdown-menu{
+        text-align: center;
+        width: 40%;
+       margin-left: 130px;
+    }
+    .tin{
+        height: 100%;
+    }
+    .editored{
+        width: 100%;
+        margin-top: -132px;
+    }
+     
+ }
